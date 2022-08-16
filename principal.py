@@ -1,7 +1,7 @@
 from registro import *
 import random
 
-
+hola modifiquen esta linea
 # Ordenamos la variable part de menor a mayor
 def ordenar_ranking(part):
     n = len(part)
